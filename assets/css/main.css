@@ -19,7 +19,7 @@
 	}
 
 	.resize{
-		width:auto;
+		width:75%;
 		max-height:20em;
 		display: block;
 		margin-left: auto;
