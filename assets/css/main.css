@@ -1643,9 +1643,11 @@
 	hr {
 		border: 0;
 		border-bottom: solid 2px #f4f4f4;
+		margin: 2.25em 0;
 	}
 
 		hr.major {
+			margin: 3.375em 0;
 		}
 
 	blockquote {
@@ -2588,9 +2590,11 @@
 	}
 
 		#main > section > .container {
+			padding: 3em 0 4em 0;
 		}
 
 		#main > section:first-child {
+			border-top: 0;
 		}
 
 /* One */
