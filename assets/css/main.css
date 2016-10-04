@@ -19,7 +19,7 @@
 	}
 
 	.resize{
-		width:cover;
+		width:auto;
 		max-height:20em;
 	}
 
