@@ -21,6 +21,7 @@
 	.resize{
 		height:100%;
 		width:100%;
+		max-height:50%;
 	}
 
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
