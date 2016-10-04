@@ -2616,7 +2616,7 @@
 		background-image: url("../../images/banner2.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: contain;
 		content: '';
 		display: block;
 		height: 35em;
