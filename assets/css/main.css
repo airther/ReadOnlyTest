@@ -2603,7 +2603,7 @@
 		background-image: url("../../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: 100%;
 		content: '';
 		display: block;
 		height: 25em;
@@ -2616,7 +2616,7 @@
 		background-image: url("../../images/banner2.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: 100%;
 		content: '';
 		display: block;
 		height: 25em;
