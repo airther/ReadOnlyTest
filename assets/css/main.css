@@ -2606,7 +2606,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 50%;
+		height: 100%;
 		width: 100%;
 	}
 
@@ -2619,7 +2619,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 50%;
+		height: 100%;
 		width: 100%;
 	}
 
