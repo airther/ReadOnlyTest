@@ -2871,11 +2871,11 @@
 						background: #222;
 						color: #4acaa8;
 						content: '\f0c9';
-						display: block;
+						display: visible;
 						font-size: 18px;
 						height: 44px;
 						line-height: 44px;
-						position: absolute;
+						position: fixed;
 						text-align: center;
 						top: 0;
 						width: 64px;
