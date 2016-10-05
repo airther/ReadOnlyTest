@@ -2729,7 +2729,7 @@
 /* Medium */
 
 	#titleBar {
-		display: none;
+		display: visible;
 	}
 
 	@media screen and (max-width: 1024px) {
