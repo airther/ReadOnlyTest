@@ -2729,8 +2729,7 @@
 /* Medium */
 
 	#titleBar {
-		display: visible;
-		position: fixed;
+		display: hidden;
 	}
 
 	@media screen and (max-width: 1024px) {
