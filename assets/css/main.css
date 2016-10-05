@@ -2815,10 +2815,6 @@
 				-webkit-backface-visibility: visible;
 				-ms-backface-visibility: visible;
 				backface-visibility: visible;
-				-moz-transition: -moz-transform 0.5s ease;
-				-webkit-transition: -webkit-transform 0.5s ease;
-				-ms-transition: -ms-transform 0.5s ease;
-				transition: transform 0.5s ease;
 				display: block;
 				height: 44px;
 				left: 0;
