@@ -2730,6 +2730,7 @@
 
 	#titleBar {
 		display: visible;
+		position: fixed;
 	}
 
 	@media screen and (max-width: 1024px) {
