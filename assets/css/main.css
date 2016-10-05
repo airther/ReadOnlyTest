@@ -2036,6 +2036,7 @@
 			margin-left: auto;
 			margin-right: auto;
 			position:relative;
+			max-height:35em;
 		}
 
 		.image.avatar {
