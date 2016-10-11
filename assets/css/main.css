@@ -2581,14 +2581,15 @@
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #ffffff !important;
+						color: #4acaa8 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
 					}
 
 						#header > nav ul li a.active {
-							background: #4acaa8;
+							background: #fff;
+							/* "background" controls the highlight in the righthand navigation for the section of the page. */
 							color: #4acaa8 !important;
 						}
 
