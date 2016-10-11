@@ -2570,7 +2570,8 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #4acaa8;
+					border-top: solid 2px #5ccfb0;
+					/* "border-top" controls the color of the text in the righthand bar */
 					display: block;
 					padding: 0;
 				}
